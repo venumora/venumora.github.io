@@ -1,0 +1,14 @@
+/* humanstxt.org */
+
+/* TEAM */
+    Author: Venu Kumar Mora
+    Site: venumora.github.io
+    Location: San Francisco, CA, USA
+
+/* THANKS */
+    Name: You for reading this
+
+/* SITE */
+    Standards: HTML5, CSS3, ES6
+    Components: Semantic UI
+    Software: VS Code, Git, Heroku
